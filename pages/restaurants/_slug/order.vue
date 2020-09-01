@@ -292,6 +292,7 @@
         <div class="model-send__buttons u-flex u-flex-fd--r u-flex-jc--c">
             <div class="model-send-buttons__back">
                  <button class="btn pr-md fc-base font-normal-sm-n"><span class="icon-back-icon"></span>Natrag</button>
+                 <div>xx</div>
 
             </div>
 
